@@ -24,7 +24,7 @@ You will have hands-on experience building a serverless application using AWS La
 Additionally, you will have experience working with AWS services and integrating them to build a complete solution.
 
 This project will help you improve your skills in cloud computing, serverless architecture, and AWS services.
-![alt text](file:///C:/Users/jayes/OneDrive/Documents/Desktop/harsha/My-first-AWS-serverless-E-commerce-website/github%20clone/AWS-Serverless-E-Commerce-Website/index.html)
+![alt text](https://github.com/harshakanduri/My-first-AWS-serverless-E-commerce-web-Application/blob/main/Snapshots/Website.png)
 
 
 
